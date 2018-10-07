@@ -1,2 +1,2 @@
 # HackerRank
-Provides some basic and cool HackerRank problems &amp; solutions
+Provides efficient solutions to HackerRank problems
